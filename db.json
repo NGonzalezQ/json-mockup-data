@@ -13,6 +13,25 @@
       "area":120,
       "n_rooms":3,
       "n_bathrooms":2,
-      "value": {"CLP":600000, "CLF":15}
+      "value": {"CLP":600000, "CLF":15},
+      "images_data": [
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_fo0vihcmvan_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_xuupz1tugyx_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_1l0yku54ebx_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_y0bpr1b1iel_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_chuuaoisza4_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_y4gcwtzuglm_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_zxf2q432dmk_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_h0zkvjrxgee_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_ci5bjivcjjf_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_odzhdwitrnb_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_u1wcsn4aqj3_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_nwm5m2san0h_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_2ua2iyewtpw_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_cyiuzdbs5ca_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_hrfqljpdfkj_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_a3ferxvey1k_w1200.jpg", 
+         "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_fq1fr1ppeuh_w1200.jpg"
+      ]
    }
 }
