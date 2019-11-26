@@ -5,7 +5,7 @@
          "label":"Mockup Test"
       }
    ],
-   "propertyDetail":[
+   "propertyDetail":
       {
          "propertyId":"A",
          "details":{
@@ -26,5 +26,5 @@
             ]
          }
       }
-   ]
+   
 }
