@@ -9,6 +9,8 @@
       {
          "propertyId":"A",
          "details":{
+            "property_type": "apt",
+            "offer": "rent",
             "address":"Mockup Street 123",
             "commune":"Mockup Land",
             "region":"Mockup Region",
