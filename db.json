@@ -1,10 +1,8 @@
 {
-   "staticList":[
-      {
-         "value":1,
-         "label":"Mockup Test"
-      }
-   ],
+   "staticList":{
+      "value":1,
+      "label":"Mockup Test"
+   },
    "propertyDetail":{
       "propertyId":"A",
       "property_type":"apt",
@@ -16,7 +14,7 @@
       "area":120,
       "n_rooms":3,
       "n_bathrooms":2,
-      "value": [
+      "value":[
          {
             "CLP":600000,
             "CLF":15
