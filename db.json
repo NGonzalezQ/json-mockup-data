@@ -1,5 +1,5 @@
 {
   "staticList": [
-    { "id": 1, "value": "Mockup Test" }
+    { "value": 1, "label": "Mockup Test" }
   ]
 }
