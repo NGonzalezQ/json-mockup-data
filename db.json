@@ -5,11 +5,10 @@
          "label":"Mockup Test"
       }
    ],
-   "propertyDetail":
-   {
+   "propertyDetail":{
       "propertyId":"A",
-      "property_type": "apt",
-      "offer": "rent",
+      "property_type":"apt",
+      "offer":"rent",
       "address":"Mockup Street 123",
       "commune":"Mockup Land",
       "region":"Mockup Region",
@@ -17,11 +16,9 @@
       "area":120,
       "n_rooms":3,
       "n_bathrooms":2,
-      "value":
-      {
+      "value":{
          "CLP":600000,
          "CLF":15
-      },
+      }
    }
-   
 }
