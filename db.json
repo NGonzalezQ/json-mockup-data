@@ -8,7 +8,7 @@
    "propertyDetail":[
       {
          "propertyId":"A",
-         "propertyContent":{
+         "details":{
             "address":"Mockup Street 123",
             "commune":"Mockup Land",
             "region":"Mockup Region",
