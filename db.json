@@ -7,7 +7,6 @@
    ],
    "propertyDetail":
       {
-         "details":{
                "propertyId":"A",
                "property_type": "apt",
                "offer": "rent",
@@ -26,7 +25,6 @@
                      "CLF":15
                   }
                ]
-         }
       }
    
 }
