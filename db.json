@@ -8,8 +8,7 @@
    "propertyDetail":
       {
          "details":{
-            "propertyId":"A",
-            "details":{
+               "propertyId":"A",
                "property_type": "apt",
                "offer": "rent",
                "address":"Mockup Street 123",
@@ -27,7 +26,6 @@
                      "CLF":15
                   }
                ]
-            }
          }
       }
    
