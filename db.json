@@ -17,8 +17,10 @@
       "n_rooms":3,
       "n_bathrooms":2,
       "value":{
-         "CLP":600000,
-         "CLF":15
+         [
+            "CLP":600000,
+            "CLF":15
+         ]
       }
    }
 }
