@@ -1,8 +1,7 @@
 {
-   "staticList":{
-      "value":1,
-      "label":"Mockup Test"
-   },
+   "staticList":[
+      {"value":1,"label":"Mockup Test"}
+   ],
    "propertyDetail":{
       "propertyId":"A",
       "property_type":"apt",
