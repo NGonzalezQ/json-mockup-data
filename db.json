@@ -145,6 +145,7 @@
          }
       ],
          "page":"0",
-         "count":"1"
+         "page_count":"1",
+         "count":"3"
    }
 }
