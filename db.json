@@ -33,49 +33,5 @@
          "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_a3ferxvey1k_w1200.jpg", 
          "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_fq1fr1ppeuh_w1200.jpg"
       ]
-   },
-   "propertyList": [
-      {
-          "status": "used", 
-          "commune": "Macul", 
-          "description": "SE ARRIENDA HABITACION AMOBLADA\r\nLa habitaci\u00f3n esta ubicada dentro de una casa en la Villa Santa Elena, comuna de Macul.\r\n\r\nBarrio residencial, a pasos del Metro Pedrero o San Joaquin (7 minutos caminando, aprox.) Habitaci\u00f3n amoblada con cama, velador, cortinas y closet.\r\nEl arriendo incluye luz, agua, gas, wifi y tv cable solo en living comedor.\r\n\u00c1reas comunes como Living, comedor, lavander\u00eda y cocina se encuentras completamente amobladas y a disposici\u00f3n de los residentes.\r\nEstacionamiento disponible para un veh\u00edculo!\r\n\r\nHabitaciones disponibles para una o dos personas m\u00e1ximo.\r\nvalor para una persona $200.000\r\nValor para dos personas $250.000\r\n\r\nSe arrienda a personas tranquilas y de buen vivir.", 
-          "offer": "rent", 
-          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5026729-pedro-humberto-allende-macul-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=157", 
-          "region": "Metropolitana", 
-          "area": 12, 
-          "n_rooms": 1, 
-          "update": false, 
-          "value": {
-            "CLF": "7,25", 
-            "CLP": "200.000"
-          }, 
-          "site": 0, 
-          "currency": "CLP", 
-          "equipment": "Servicios :nbspnbspSi\r\nDistribuci\u00f3n :nbsp Hall\r\nServicios adicionales :nbsp Loggia, Despensa, Estar de servicio\r\nCocina :nbsp Amoblada, Equipada\r\nTV cable, Rejas ventana", 
-          "location": {
-            "type": "Point", 
-            "coordinates": [
-              -70.60947, 
-              -33.50422
-            ]
-          }, 
-          "images_data": [
-            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_q2ruzl5xx2v_w1200.jpg", 
-            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_a1cks2dmfhq_w1200.jpg", 
-            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_xuhfs3t4bnw_w1200.jpg", 
-            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_dpvcz01cknf_w1200.jpg"
-          ], 
-          "address": "Pedro Humberto Allende, Macul", 
-          "n_bathrooms": 1, 
-          "property_type": "apt", 
-          "seller_data": {
-            "phone": [
-              "+56956795968"
-            ], 
-            "name": "Dayann Lizama", 
-            "email": "corredores.macul@gmail.com"
-          }, 
-          "scraped_at": "2019-08-30 14:08:29"
-        }
-   ]
+   }
 }
