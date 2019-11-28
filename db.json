@@ -27,120 +27,124 @@
          "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_y0bpr1b1iel_w1200.jpg"
       ]
    },
-   "1":[
-      {
-         "status":"used",
-         "code":"aaaa",
-         "offer_id":"A",
-         "commune":"Macul",
-         "description":"Arriendo pieza a var\u00f3n o pareja, en el L\u00edbano 5000 A, cuarto piso, comuna de Macul, a pasos del metro las torres; en $200.000,65 m2, se comparte \u00e1reas de living comedor,terraza, cocina, amplios cl\u00f3sets, locomoci\u00f3n fuera del condominio, Incluye gastos de luz agua gas gastos comunes .-",
-         "offer":"rent",
-         "region":"Metropolitana",
-         "area":65,
-         "n_rooms":1,
-         "update":false,
-         "value":{
-            "CLF":"7,25",
-            "CLP":"200.000"
+   "propertyList":{
+      "list":[
+         {
+            "status":"used",
+            "code":"aaaa",
+            "offer_id":"A",
+            "commune":"Macul",
+            "description":"Arriendo pieza a var\u00f3n o pareja, en el L\u00edbano 5000 A, cuarto piso, comuna de Macul, a pasos del metro las torres; en $200.000,65 m2, se comparte \u00e1reas de living comedor,terraza, cocina, amplios cl\u00f3sets, locomoci\u00f3n fuera del condominio, Incluye gastos de luz agua gas gastos comunes .-",
+            "offer":"rent",
+            "region":"Metropolitana",
+            "area":65,
+            "n_rooms":1,
+            "update":false,
+            "value":{
+               "CLF":"7,25",
+               "CLP":"200.000"
+            },
+            "site":0,
+            "currency":"CLP",
+            "equipment":null,
+            "location":{
+               "type":"Point",
+               "coordinates":[
+                  -70.59223,
+                  -33.49798
+               ]
+            },
+            "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_0j2uikwdcsu_w1200.jpg",
+            "address":"El L\u00edbano 5000",
+            "n_bathrooms":1,
+            "property_type":"apt",
+            "seller_data":{
+               "phone":[
+                  "+56992172587"
+               ],
+               "name":null,
+               "email":"karenaldoca100@gmail.com"
+            },
+            "scraped_at":"2019-09-04 20:51:01"
          },
-         "site":0,
-         "currency":"CLP",
-         "equipment":null,
-         "location":{
-            "type":"Point",
-            "coordinates":[
-               -70.59223,
-               -33.49798
-            ]
+         {
+            "status":"used",
+            "code":"bbbb",
+            "offer_id":"B",
+            "commune":"Macul",
+            "description":"FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono",
+            "offer":"rent",
+            "region":"Metropolitana",
+            "area":26,
+            "n_rooms":1,
+            "update":false,
+            "value":{
+               "CLF":"8,88",
+               "CLP":"245.000"
+            },
+            "site":0,
+            "currency":"CLP",
+            "equipment":"Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico",
+            "location":{
+               "type":"Point",
+               "coordinates":[
+                  -70.61557,
+                  -33.49114
+               ]
+            },
+            "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_1uertrbs4h5_w1200.jpg",
+            "address":"Escuela Agr\u00edcola 1710",
+            "n_bathrooms":1,
+            "property_type":"apt",
+            "seller_data":{
+               "phone":[
+                  "+56957697954"
+               ],
+               "name":"Vladimir Bertoni Olguin",
+               "email":"contacto@shpropiedades.cl"
+            },
+            "scraped_at":"2019-08-30 14:08:16"
          },
-         "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_0j2uikwdcsu_w1200.jpg",
-         "address":"El L\u00edbano 5000",
-         "n_bathrooms":1,
-         "property_type":"apt",
-         "seller_data":{
-            "phone":[
-               "+56992172587"
-            ],
-            "name":null,
-            "email":"karenaldoca100@gmail.com"
-         },
-         "scraped_at":"2019-09-04 20:51:01"
-      },
-      {
-         "status":"used",
-         "code":"bbbb",
-         "offer_id":"B",
-         "commune":"Macul",
-         "description":"FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono",
-         "offer":"rent",
-         "region":"Metropolitana",
-         "area":26,
-         "n_rooms":1,
-         "update":false,
-         "value":{
-            "CLF":"8,88",
-            "CLP":"245.000"
-         },
-         "site":0,
-         "currency":"CLP",
-         "equipment":"Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico",
-         "location":{
-            "type":"Point",
-            "coordinates":[
-               -70.61557,
-               -33.49114
-            ]
-         },
-         "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_1uertrbs4h5_w1200.jpg",
-         "address":"Escuela Agr\u00edcola 1710",
-         "n_bathrooms":1,
-         "property_type":"apt",
-         "seller_data":{
-            "phone":[
-               "+56957697954"
-            ],
-            "name":"Vladimir Bertoni Olguin",
-            "email":"contacto@shpropiedades.cl"
-         },
-         "scraped_at":"2019-08-30 14:08:16"
-      },
-      {
-         "status":"used",
-         "code":"cccc",
-         "offer_id":"C",
-         "commune":"Macul",
-         "description":"FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono",
-         "offer":"rent",
-         "region":"Metropolitana",
-         "area":26,
-         "n_rooms":1,
-         "update":false,
-         "value":{
-            "CLF":"9,24",
-            "CLP":"255.000"
-         },
-         "site":0,
-         "currency":"CLP",
-         "equipment":"Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico",
-         "location":{
-            "type":"Point",
-            "coordinates":[
-               -70.61557,
-               -33.49114
-            ]
-         },
-         "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_d2ljb5kdezp_w1200.jpg",
-         "address":"Escuela Agr\u00edcola 1710",
-         "n_bathrooms":1,
-         "property_type":"apt",
-         "seller_data":{
-            "phone":[
-               "+56957697954"
-            ],
-            "name":"Vladimir Bertoni Olguin",
-            "email":"contacto@shpropiedades.cl"
-         },
-         "scraped_at":"2019-08-21 10:03:26"
-      }
-   ]
+         {
+            "status":"used",
+            "code":"cccc",
+            "offer_id":"C",
+            "commune":"Macul",
+            "description":"FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono",
+            "offer":"rent",
+            "region":"Metropolitana",
+            "area":26,
+            "n_rooms":1,
+            "update":false,
+            "value":{
+               "CLF":"9,24",
+               "CLP":"255.000"
+            },
+            "site":0,
+            "currency":"CLP",
+            "equipment":"Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico",
+            "location":{
+               "type":"Point",
+               "coordinates":[
+                  -70.61557,
+                  -33.49114
+               ]
+            },
+            "thumbnail":"https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_d2ljb5kdezp_w1200.jpg",
+            "address":"Escuela Agr\u00edcola 1710",
+            "n_bathrooms":1,
+            "property_type":"apt",
+            "seller_data":{
+               "phone":[
+                  "+56957697954"
+               ],
+               "name":"Vladimir Bertoni Olguin",
+               "email":"contacto@shpropiedades.cl"
+            },
+            "scraped_at":"2019-08-21 10:03:26"
+         }
+      ]
+   },
+   "page":"0",
+   "count":"1"
 }
