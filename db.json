@@ -33,5 +33,463 @@
          "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_a3ferxvey1k_w1200.jpg", 
          "https://image.portalinmobiliario.cl/Portal/Propiedades/5061251_fq1fr1ppeuh_w1200.jpg"
       ]
-   }
+   },
+   "propertyList": [
+      {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "SE ARRIENDA HABITACION AMOBLADA\r\nLa habitaci\u00f3n esta ubicada dentro de una casa en la Villa Santa Elena, comuna de Macul.\r\n\r\nBarrio residencial, a pasos del Metro Pedrero o San Joaquin (7 minutos caminando, aprox.) Habitaci\u00f3n amoblada con cama, velador, cortinas y closet.\r\nEl arriendo incluye luz, agua, gas, wifi y tv cable solo en living comedor.\r\n\u00c1reas comunes como Living, comedor, lavander\u00eda y cocina se encuentras completamente amobladas y a disposici\u00f3n de los residentes.\r\nEstacionamiento disponible para un veh\u00edculo!\r\n\r\nHabitaciones disponibles para una o dos personas m\u00e1ximo.\r\nvalor para una persona $200.000\r\nValor para dos personas $250.000\r\n\r\nSe arrienda a personas tranquilas y de buen vivir.", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5026729-pedro-humberto-allende-macul-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=157", 
+          "region": "Metropolitana", 
+          "area": 12, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "7,25", 
+            "CLP": "200.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspSi\r\nDistribuci\u00f3n :nbsp Hall\r\nServicios adicionales :nbsp Loggia, Despensa, Estar de servicio\r\nCocina :nbsp Amoblada, Equipada\r\nTV cable, Rejas ventana", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.60947, 
+              -33.50422
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_q2ruzl5xx2v_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_a1cks2dmfhq_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_xuhfs3t4bnw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026729_dpvcz01cknf_w1200.jpg"
+          ], 
+          "address": "Pedro Humberto Allende, Macul", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56956795968"
+            ], 
+            "name": "Dayann Lizama", 
+            "email": "corredores.macul@gmail.com"
+          }, 
+          "scraped_at": "2019-08-30 14:08:29"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "Arriendo pieza a var\u00f3n o pareja, en el L\u00edbano 5000 A, cuarto piso, comuna de Macul, a pasos del metro las torres; en $200.000,65 m2, se comparte \u00e1reas de living comedor,terraza, cocina, amplios cl\u00f3sets, locomoci\u00f3n fuera del condominio, Incluye gastos de luz agua gas gastos comunes .-", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5038491-el-libano-5000-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=168", 
+          "region": "Metropolitana", 
+          "area": 65, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "7,25", 
+            "CLP": "200.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": null, 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.59223, 
+              -33.49798
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_0j2uikwdcsu_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_15y0jgmzesf_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_ghuupnckcnw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5038491_2qzlrxm0trx_w1200.jpg"
+          ], 
+          "address": "El L\u00edbano 5000", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56992172587"
+            ], 
+            "name": null, 
+            "email": "karenaldoca100@gmail.com"
+          }, 
+          "scraped_at": "2019-09-04 20:51:01"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5028743-escuela-agricola-1710-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=8", 
+          "region": "Metropolitana", 
+          "area": 26, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "8,88", 
+            "CLP": "245.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.61557, 
+              -33.49114
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_1uertrbs4h5_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_s4zkobjfsi3_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_gz5hegp1hzv_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_wqxnewvbl0n_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_rsane30olnq_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_z2rtbeli4qq_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_pvm1uc54kuu_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_a0dg5f5wzme_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_m0enoqrhjxb_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_gpyepywacfs_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_ptqw4jklshs_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_c2xzkgqhrty_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_5n3xftrc4dj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_dq0ee532h2u_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_q2pxnotayom_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_wifkrpbntbn_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_nixopy3h2po_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_nl3apyak01d_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_bpg11rhulgm_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_neqlwfivd34_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_2hkhlrvjvdy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_wmdsvcu14ec_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_ctnrmywfpvk_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_b3ibiwyn43x_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_3ufgqdnt55y_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_w3sfx3bblsj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_eeibyznm0uo_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_44m4vcbd50z_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_43gtwulmqa1_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5028743_gfbdlu5vwhj_w1200.jpg"
+          ], 
+          "address": "Escuela Agr\u00edcola 1710", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56957697954"
+            ], 
+            "name": "Vladimir Bertoni Olguin", 
+            "email": "contacto@shpropiedades.cl"
+          }, 
+          "scraped_at": "2019-08-30 14:08:16"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5012898-escuela-agricola-1710-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=8", 
+          "region": "Metropolitana", 
+          "area": 26, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "9,24", 
+            "CLP": "255.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.61557, 
+              -33.49114
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_d2ljb5kdezp_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_ewwc1qmz2ol_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_fcdr5eboktl_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_xagcqur2ys0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_vdinwxspjbr_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_zzuw0vyxlcw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_oweqfkxdw0p_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_3c2xckouanr_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_1iyh1p2wuss_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_tjzqnujtejm_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_ijxefiw0ccm_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_ekl4badyfuj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_30w3l5s2fzh_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_ky5ltb1oosy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_2srazh44qp3_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_dot5bnk123r_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_bylwwv2cuxw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_rjwiasni5fu_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_uzxay5xeoor_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_4c1yjmm2bas_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_cl1l1eegb0v_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_yamtkh5vqa1_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_53rl2xbhnwt_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_sigmex5kje1_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_2ef21j405z5_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_snfp2tvebwv_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_orpnr2mtvhx_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_g5fuofa4wan_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_xj1dguqsv2m_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5012898_ttb43lpc0qo_w1200.jpg"
+          ], 
+          "address": "Escuela Agr\u00edcola 1710", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56957697954"
+            ], 
+            "name": "Vladimir Bertoni Olguin", 
+            "email": "contacto@shpropiedades.cl"
+          }, 
+          "scraped_at": "2019-08-21 10:03:26"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/4994136-escuela-agricola-1710-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=7", 
+          "region": "Metropolitana", 
+          "area": 26, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "9,24", 
+            "CLP": "255.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.61557, 
+              -33.49114
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_gtgw1ebdrxm_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_d31uewwftoq_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_jxwud2a3cou_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_kd53c202aia_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_nlrir4oi05t_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_hrfkqlt4wsr_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_2xvgfeomqx3_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_c5jtxrvuwaa_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_dhvfrcshlgl_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_qwfwbowx1dp_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_pdyizrkmicw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_543l1vk23cp_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_cw10ky0jn0t_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_o3bxpvgdpqt_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_4fuwlc42faj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_5ox1sxadcbz_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_e4qn22e13wi_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_rlg0font1ku_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_rvovcgc2m0a_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_daeokdsb1oe_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_avtr1bihb5n_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_3uftc34iku5_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_zssvb3mgpkg_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_uajxhuetvgn_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_ylbl0ke40nj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_c5o5aa5rkdr_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_bny0xxffyka_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_fzrtujz5xso_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_5eyjs5cwwj3_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4994136_pkq10uwedcy_w1200.jpg"
+          ], 
+          "address": "Escuela Agr\u00edcola 1710", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56957697954"
+            ], 
+            "name": "Vladimir Bertoni Olguin", 
+            "email": "contacto@shpropiedades.cl"
+          }, 
+          "scraped_at": "2019-08-16 04:49:48"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "FAVOR CONTACTARME VIA WATHSAPP  +56975405744\r\nLA COMUNICACI\u00d3N Y RESPUESTAS SER\u00c1N MUCH\u00cdSIMO MAS R\u00c1PIDO\r\nO AL CORREO CONTACTO@SHPROPIEDADES.CL\r\n\r\nEXCELENTE DEPARTAMENTO \r\n EN LA PUERTA DE LA ESTACI\u00d3N DE METRO ESCUELA AGR\u00cdCOLA\r\n\r\nCocina cuenta con Horno, encimera y campana\r\nCubierta de granito en la Cocina y Porcelanato en el muro\r\nM\u00e1rmol en el Ba\u00f1o y cuenta ademas con instalaci\u00f3n para Lavadora\r\nVentanales con Aislacion t\u00e9rmica y Ac\u00fastica\r\n\r\n\r\n\r\nInserto en un hermoso condominio con 15.000 Mts cuadrados de Arreas Verdes, los que cuentan con Quinchos, piscinas, salones de eventos y zona Wi - Fi\r\nDepartamento Cuenta con Barras para cortinas y Las Lamparas\r\nGastos Comunes de $ 50.000 aproximadamente\r\n\r\n(Fotograf\u00edas corresponden al departamento Piloto,)\r\n\r\nConsulta por Horarios y d\u00edas para su Visita\r\nUna excelente alternativa\r\nRes\u00e9rvalo con anticipaci\u00f3n\r\n\r\n\r\n\r\nCaracter\u00edsticas propiedad\r\nalarma, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\npiscina, port\u00f3n el\u00e9ctrico\r\n\r\nOtros suministros\r\ntel\u00e9fono", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5026532-escuela-agricola-1710-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=9", 
+          "region": "Metropolitana", 
+          "area": 26, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "9,24", 
+            "CLP": "255.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nCocina :nbsp Equipada\r\nTel\u00e9fono, Alarma, Piscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.61557, 
+              -33.49114
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_kfpwmgvohpc_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_1bu1vsthq3l_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_tev3anl53xe_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_bs3mhhclszi_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_kw5dldgiqsc_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_wml0dfzgxdy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_ymxtlnlxeyj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_0rdyzgl55ev_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_r40tr0r1abg_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_bh0nzbbadab_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_yzd2nxvfayw_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_zdg3ylpkxfl_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_tqv4n4nszgi_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_wjpeo3qvmo4_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_pyarcbjjdt0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_lyw1ihfiufk_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_2lp0i3vrmyy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_n2i2s124e5z_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_w2tztbcg3n4_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_3ay4fd4fcrc_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_c2kfq30xxd5_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_hcbgavk2ce0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_iisstctv0sj_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_0vboetujkai_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_i5so4u1ssoy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_cbu23szl2u0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_ue4ue1c1qvz_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_crdtnfk2pip_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_c2j5l5x3pie_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5026532_03nrtxs3mti_w1200.jpg"
+          ], 
+          "address": "Escuela Agr\u00edcola 1710", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56957697954"
+            ], 
+            "name": "Vladimir Bertoni Olguin", 
+            "email": "contacto@shpropiedades.cl"
+          }, 
+          "scraped_at": "2019-08-30 14:08:16"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "El edificio cuenta con gimnasio, sala multiuso, sala de lavander\u00eda, un gran parque interior, quincho, estacionamientos de visitas y acceso controlado las 24 horas. No posee estacionamiento ni bodega propio\r\nA pasos del metro Escuela Agr\u00edcola\r\nCerca de Inacap. U. Cat\u00f3lica, Fed. Sta Mar\u00eda, AIEP, Duoc, Florida Center y Plaza Vespucio.\r\nRequisitos: Fotocopia de la c\u00e9dula de identidad por ambos lados\r\nAntiguedad laboral m\u00ednimo un a\u00f1o\r\nCopia del contrato de trabajo\r\nRenta l\u00edquida m\u00ednimo $ 1000000\r\nSeis \u00faltimas liquidaciones de sueldo\r\nCertificado de las 12 \u00faltimas cotizaciones previsionales\r\nCertificado de Dicom\r\nAval quien debe cumplir los requisitos se\u00f1alados\r\nContrato de arriendo m\u00ednimo un a\u00f1o\r\nM\u00e1ximo dos personas\r\nNo se permiten mascotas\r\nAl momento del contrato se exige mes de arriendo y mes de garant\u00eda", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/4976269-estacion-camino-agricola-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=146", 
+          "region": "Metropolitana", 
+          "area": 28, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "9,42", 
+            "CLP": "260.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nCocina :nbsp Amoblada, Equipada\r\nPiscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.59911, 
+              -33.48524
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4976269_mzx2udppa5b_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4976269_n2tczhy5kww_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4976269_qtglykeuys0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/4976269_1ynfazsunf4_w1200.jpg"
+          ], 
+          "address": "estaci\u00f3n camino agr\u00edcola", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56996913346", 
+              "+56996913346"
+            ], 
+            "name": "Jos\u00e9 Robles", 
+            "email": "jorobless@gmail.com"
+          }, 
+          "scraped_at": "2019-08-08 01:09:18"
+        }, 
+        {
+          "status": "used", 
+          "commune": "Macul", 
+          "description": "SE ARRIENDA DEPARTAMENTO DE 1D1B DISPONIBLE\r\n\r\nExcelente ubicaci\u00f3n cercano a la rotonda quilin, bonito entorno, cercano a Vi\u00f1a Cousi\u00f1o Macul, \u00e1reas verdes, Mall paseo Quil\u00edn y de Am\u00e9rico Vespucio, Supermercado, Easy, Colegios, Hospital Cl\u00ednico U de Chile, excelente conectividad, Metro, Locomoci\u00f3n y Autopistas.\r\n\r\nDepartamento de 33 m2, consta de 1 dormitorio, con amplio closet y piso flotante.\r\n1 Ba\u00f1o con descarga anti ruido y extractor anti retorno.\r\nCocina americana equipada, con cubierta de granito, horno, encimera y campana todo el\u00e9ctrico,\r\nPiso flotante en living comedor y pasillo,\r\nTodas las ventanas con termopaneles anti ruido y aislante de fr\u00edo, espacio para lavadora en el ba\u00f1o.\r\n\r\nOrientaci\u00f3n Oriente\r\nPiso: 13\r\n\r\nCon Estacionamiento superficie\r\n\r\ncuenta con conserjer\u00eda 24 horas, 3 ascensores, c\u00e1maras de seguridad, piscina, \u00e1reas verdes, lavander\u00eda, gimnasio, quincho, sala de eventos, sala de computaci\u00f3n con Wifi, port\u00f3n autom\u00e1tico y estacionamiento de visitas.\r\nDisponibilidad a FINALES DE AGOSTO\r\n\r\nREQUISITOS:\r\nEXTRANJEROS SOLAMENTE CON RESIDENCIA DEFINITIVA. Sueldo superior a 3 veces el valor del arriendo, no estar en DICOM, contar con un codeudor y estabilidad laboral.\r\n\r\nContactar v\u00eda mail VISITAS@STZ.CL o whatsapp +56948921908\r\n\r\nTerminaciones\r\nPiso ba\u00f1os: cer\u00e1mica\r\nPiso dormitorios: piso flotante\r\n\r\nSuministros\r\nAgua caliente: caldera\r\n\r\nCaracter\u00edsticas propiedad\r\ncocina americana, escritorio, loggia, cocina equipada, port\u00f3n autom\u00e1tico\r\n\r\nCaracter\u00edsticas comunidad\r\naccesos controlados, \u00e1reas verdes, circuito cerrado de tv, cit\u00f3fono, estacionamiento de visitas, gimnasio, piscina, port\u00f3n el\u00e9ctrico, quincho, sala de eventos\r\n\r\nGastos\r\nGastos comunes: $ 65.000", 
+          "offer": "rent", 
+          "url": "https://www.portalinmobiliario.com/arriendo/departamento/macul-metropolitana/5054661-avenida-quilin-4931-uda?tp=2&op=2&iug=330&ca=3&ts=1&mn=2&or=&sf=1&sp=0&at=0&i=11", 
+          "region": "Metropolitana", 
+          "area": 33, 
+          "n_rooms": 1, 
+          "update": false, 
+          "value": {
+            "CLF": "9,42", 
+            "CLP": "260.000"
+          }, 
+          "site": 0, 
+          "currency": "CLP", 
+          "equipment": "Servicios :nbspnbspNo\r\nDistribuci\u00f3n :nbsp Escritorio\r\nServicios adicionales :nbsp Loggia\r\nCocina :nbsp Equipada\r\nPiscina, Port\u00f3n autom\u00e1tico, Portero el\u00e9ctrico", 
+          "location": {
+            "type": "Point", 
+            "coordinates": [
+              -70.5829, 
+              -33.48872
+            ]
+          }, 
+          "images_data": [
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_ujrj53liofk_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_giodygh2t42_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_scfcd2f2fpf_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_umzp51nssb4_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_v5wfpndnlgg_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_rl5eslwacyy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_gac3kzskrip_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_jsmpebcxdi0_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_yuj115asjhn_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_k4nwm35m5iy_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_onh22dy3kme_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_nlusov5pzhi_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_11oopjoo4ou_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_gm13b35molc_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_qkce3ykjm4p_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_cq4ejlrzcq4_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_pwgxet41vjg_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_ivk3okogr43_w1200.jpg", 
+            "https://image.portalinmobiliario.cl/Portal/Propiedades/5054661_bcu4ef1usgr_w1200.jpg"
+          ], 
+          "address": "Avenida . .,Las Condes, Santiag", 
+          "n_bathrooms": 1, 
+          "property_type": "apt", 
+          "seller_data": {
+            "phone": [
+              "+56948921908"
+            ], 
+            "name": "STZ VISITAS B C", 
+            "email": "visitas@stz.cl"
+          }, 
+          "scraped_at": "2019-09-12 01:40:43"
+        }
+   ]
 }
